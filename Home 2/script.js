@@ -1,1 +1,1 @@
-alert("Welcome to Travel Go");
+alert("Welcome to Travel Go!");
