@@ -1,9 +1,9 @@
 People who created this web app and their respective pages:
 
-Zain - About Us
+Zain - Home 1
 
-Ayyoob - Home 2 & Gallery
+Ayyoob -  Contact Us & Services 
 
-Qanith - Home 1 & Contact
+Qanith - About us & Galler
 
-Waleedh - Gallery & Home 3
+Waleedh - Home 2 & Home 3
